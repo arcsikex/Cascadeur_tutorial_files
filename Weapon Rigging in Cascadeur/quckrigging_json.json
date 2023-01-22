@@ -1,0 +1,5627 @@
+{
+    "Version": "0.1.0",
+    "MirrorPlane": "YZ",
+    "FullCenterOfMass": true,
+    "CMs": [],
+    "CompositeCMs": [],
+    "JointsLocalData": [
+        {
+            "JointPathName": {
+                "Name": "R.pinky4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.pinky1",
+                    "R.pinky2",
+                    "R.pinky3",
+                    "R.pinky4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 1.98997,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.pinky1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 5.12135,
+                    "y": 9.72978,
+                    "z": -0.291453
+                },
+                "Rotation": {
+                    "x": 1.85627,
+                    "y": 1.66975,
+                    "z": 1.44021
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.ring4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.ring1",
+                    "R.ring2",
+                    "R.ring3",
+                    "R.ring4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 2.59036,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.ring1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 2.39675,
+                    "y": 10.4872,
+                    "z": 0.66051
+                },
+                "Rotation": {
+                    "x": 2.33686,
+                    "y": 1.60248,
+                    "z": 2.05703
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.middle4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.middle1",
+                    "R.middle2",
+                    "R.middle3",
+                    "R.middle4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 3.06804,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.middle1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.922075,
+                    "y": 11.156,
+                    "z": 0.407192
+                },
+                "Rotation": {
+                    "x": 0.916737,
+                    "y": 1.51746,
+                    "z": 0.72811
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.index4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.index1",
+                    "R.index2",
+                    "R.index3",
+                    "R.index4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 2.31753,
+                    "z": -0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.index1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -3.4702,
+                    "y": 11.5485,
+                    "z": -0.124931
+                },
+                "Rotation": {
+                    "x": 1.25447,
+                    "y": 1.67798,
+                    "z": 1.42095
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.thumb3_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.thumb1",
+                    "R.thumb2",
+                    "R.thumb3"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 3.50252,
+                    "z": -0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.weapon_slot_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.weapon_slot"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 10.727,
+                    "z": -0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.weapon_slot",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 6.23412,
+                    "y": 8.33914,
+                    "z": -3.34263
+                },
+                "Rotation": {
+                    "x": -0.212084,
+                    "y": -0.615851,
+                    "z": 1.49482
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "Sword_end_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.weapon_slot",
+                    "Sword",
+                    "Sword_end"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 0.071532,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "Sword_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.weapon_slot",
+                    "Sword"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -9.53674e-07,
+                    "y": 149.307,
+                    "z": 4.7e-06
+                },
+                "Rotation": {
+                    "x": -3.1177,
+                    "y": -3.1399,
+                    "z": 3.12396
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "Handle_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.weapon_slot",
+                    "Sword",
+                    "Handle"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 27.125,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "Handle",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.weapon_slot",
+                    "Sword"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 2.2e-06,
+                    "y": -4.6e-05,
+                    "z": -1.1e-06
+                },
+                "Rotation": {
+                    "x": -3.14114,
+                    "y": 0.435734,
+                    "z": 0.000199309
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "Sword",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.weapon_slot"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.001004,
+                    "y": 6.47154,
+                    "z": -0.012943
+                },
+                "Rotation": {
+                    "x": -3.13941,
+                    "y": 0.296885,
+                    "z": 3.1411
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.weapon_slot",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -6.44334,
+                    "y": 9.52534,
+                    "z": -3.79081
+                },
+                "Rotation": {
+                    "x": 3.02197,
+                    "y": 2.51149,
+                    "z": 1.75704
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.pinky4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.pinky1",
+                    "L.pinky2",
+                    "L.pinky3",
+                    "L.pinky4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 1.98997,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.pinky1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -5.12136,
+                    "y": 9.72978,
+                    "z": -0.291456
+                },
+                "Rotation": {
+                    "x": -1.28533,
+                    "y": -1.47184,
+                    "z": 1.70138
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.ring4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.ring1",
+                    "L.ring2",
+                    "L.ring3",
+                    "L.ring4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 2.59036,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.ring1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -2.39675,
+                    "y": 10.4872,
+                    "z": 0.660511
+                },
+                "Rotation": {
+                    "x": -0.804734,
+                    "y": -1.53911,
+                    "z": 1.08456
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.middle4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.middle1",
+                    "L.middle2",
+                    "L.middle3",
+                    "L.middle4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 3.06804,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.middle1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.922072,
+                    "y": 11.156,
+                    "z": 0.407194
+                },
+                "Rotation": {
+                    "x": -2.22486,
+                    "y": -1.62413,
+                    "z": 2.41349
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.index4_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.index1",
+                    "L.index2",
+                    "L.index3",
+                    "L.index4"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 2.31753,
+                    "z": -0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.index1",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 3.4702,
+                    "y": 11.5485,
+                    "z": -0.124932
+                },
+                "Rotation": {
+                    "x": -1.88712,
+                    "y": -1.46361,
+                    "z": 1.72064
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.thumb3_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.thumb1",
+                    "L.thumb2",
+                    "L.thumb3"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 3.50252,
+                    "z": -0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "head_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "neck",
+                    "head"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 23.7788,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.toe_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001",
+                    "R.shin",
+                    "R.foot1",
+                    "R.toe"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 11.0081,
+                    "z": -0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "R.thigh.001",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "R.thigh"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 8.34465e-07,
+                    "y": 47.9689,
+                    "z": -4.76837e-07
+                },
+                "Rotation": {
+                    "x": -0.260511,
+                    "y": 0.0474326,
+                    "z": 0.1591
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.toe_end",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001",
+                    "L.shin",
+                    "L.foot1",
+                    "L.toe"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 11.0081,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "L.thigh.001",
+                "Path": [
+                    "Root",
+                    "spine1",
+                    "L.thigh"
+                ]
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 9.53674e-07,
+                    "y": 47.9689,
+                    "z": 1.3e-06
+                },
+                "Rotation": {
+                    "x": 2.88108,
+                    "y": -3.09416,
+                    "z": 2.98249
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "JointPathName": {
+                "Name": "Root",
+                "Path": []
+            },
+            "LocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        }
+    ],
+    "Units": [
+        {
+            "MainJoint": "spine1",
+            "MainJointPath": [
+                "Root"
+            ],
+            "BaseGlobalOffset": {
+                "x": 3.89318e-08,
+                "y": 0.0,
+                "z": 4.1483e-08
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 106.883
+                },
+                "Rotation": {
+                    "x": 1.6595,
+                    "y": -2.11209e-08,
+                    "z": 2.37481e-07
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "BoxPosition": {
+                "x": 0.0,
+                "y": 5.88371,
+                "z": -1.36206e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 41.9214,
+                "y": 11.7674,
+                "z": 34.4197
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "stomach",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": -1.83553e-07,
+                    "y": 0.885873,
+                    "z": 9.96068
+                }
+            },
+            "Mass": 12.75,
+            "Width": 8.5,
+            "Length": 1.0,
+            "AdditionalChildrenJointsPath": [
+                {
+                    "Name": "R.thigh",
+                    "Path": [
+                        "Root",
+                        "spine1"
+                    ]
+                },
+                {
+                    "Name": "L.thigh",
+                    "Path": [
+                        "Root",
+                        "spine1"
+                    ]
+                }
+            ],
+            "AdditionalChildrenJoints": [
+                "R.thigh",
+                "L.thigh"
+            ],
+            "AutoposingNames": {
+                "AdditionalPoint": "pelvis_add",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "pelvis"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "R.index2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.index1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 1.52588e-05,
+                "y": 0.0,
+                "z": 8.58307e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -1.9e-06,
+                    "y": 1.08571,
+                    "z": 3.8e-06
+                },
+                "Rotation": {
+                    "x": 0.134438,
+                    "y": -0.058362,
+                    "z": 0.0969544
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 5.1e-06,
+                "y": 1.90966,
+                "z": 1.19209e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.40507,
+                "y": 3.81933,
+                "z": 2.40507
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.index3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.index1",
+                "R.index2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 0.0,
+                "z": 1.23978e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 7.8e-06,
+                    "y": 3.81933,
+                    "z": 9.53674e-07
+                },
+                "Rotation": {
+                    "x": -3.05998,
+                    "y": 3.00018,
+                    "z": 2.80383
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.index2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.index1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 7.9e-06,
+                "y": 1.80621,
+                "z": 2.5e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.40639,
+                "y": 3.61243,
+                "z": 2.40639
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.pinky3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.pinky1",
+                "R.pinky2"
+            ],
+            "BaseGlobalOffset": {
+                "x": -7.62939e-06,
+                "y": 1.52588e-05,
+                "z": 5.24521e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -3.9e-06,
+                    "y": 1.98116,
+                    "z": 1.1e-06
+                },
+                "Rotation": {
+                    "x": 3.06265,
+                    "y": 3.11447,
+                    "z": 2.83238
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.pinky2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.pinky1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 7.4e-06,
+                "y": 0.976297,
+                "z": -4.17233e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.70668,
+                "y": 1.95259,
+                "z": 1.70668
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.middle3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.middle1",
+                "R.middle2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 1.52588e-05,
+                "z": 6.67572e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -4.3e-06,
+                    "y": 3.84737,
+                    "z": -9.53674e-07
+                },
+                "Rotation": {
+                    "x": -3.06742,
+                    "y": 3.04201,
+                    "z": 2.76043
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.middle2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.middle1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 8.8e-06,
+                "y": 1.89237,
+                "z": 1.9e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.18373,
+                "y": 3.78473,
+                "z": 2.18373
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.shoulder",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -5.24521e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -13.6634,
+                    "y": 30.5283,
+                    "z": 0.488445
+                },
+                "Rotation": {
+                    "x": -0.177631,
+                    "y": -0.0987569,
+                    "z": 1.84753
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "spine2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": 9.62167,
+                "y": 1.13788,
+                "z": -0.223444
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 0.288996,
+                "y": 7.70657,
+                "z": 2.88997
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "R.upperarm",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 7.01588,
+                    "y": 14.2862,
+                    "z": -0.825838
+                }
+            },
+            "Mass": 2.119999885559082,
+            "Width": 2.0,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "clavicle_add_r",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "clavicle_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.upperarm",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder"
+            ],
+            "BaseGlobalOffset": {
+                "x": -1.90735e-06,
+                "y": 0.0,
+                "z": -3.33786e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -2.8e-06,
+                    "y": 7.70658,
+                    "z": -2.38419e-07
+                },
+                "Rotation": {
+                    "x": -1.93851,
+                    "y": -1.71512,
+                    "z": 1.49413
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.shoulder",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -1.9e-06,
+                "y": 14.326,
+                "z": -5.7e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 12.9164,
+                "y": 28.6519,
+                "z": 12.9164
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "L.lowerarm",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm"
+                ]
+            },
+            "AdditionalDirection": {
+                "OtherUnitAdditional": "L.lowerarm",
+                "OtherUnitAdditionalPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm"
+                ]
+            },
+            "Mass": 2.5199999809265137,
+            "Width": 0.9,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "arm_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.thumb2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.thumb1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 7.62939e-06,
+                "z": 1.90735e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 5.2e-06,
+                    "y": 1.36065,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": -0.220733,
+                    "y": 0.079718,
+                    "z": 0.341025
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.thumb1",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -2.3e-06,
+                "y": 1.97598,
+                "z": 2.5e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 3.47059,
+                "y": 3.95197,
+                "z": 3.47059
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.thigh",
+            "MainJointPath": [
+                "Root",
+                "spine1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -7.15256e-07
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 9.89118,
+                    "y": -2.75073,
+                    "z": -3.18388
+                },
+                "Rotation": {
+                    "x": -3.0075,
+                    "y": 2.57763,
+                    "z": 0.241144
+                },
+                "Scale": {
+                    "x": 0.999994,
+                    "y": 1.0,
+                    "z": 0.999997
+                }
+            },
+            "Parent": {
+                "Name": "spine1",
+                "NamePath": [
+                    "Root"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": 0.635754,
+                "y": 27.6498,
+                "z": -0.990458
+            },
+            "BoxOrientation": {
+                "x": -3.14159,
+                "y": -2.52299,
+                "z": 3.14159
+            },
+            "BoxRotation": {
+                "x": -3.14159,
+                "y": -2.52299,
+                "z": 3.14159
+            },
+            "BoxScale": {
+                "x": 20.7561,
+                "y": 55.3497,
+                "z": 20.7561
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "L.shin",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001"
+                ]
+            },
+            "AdditionalDirection": {
+                "OtherUnitAdditional": "L.shin",
+                "OtherUnitAdditionalPath": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001"
+                ]
+            },
+            "Mass": 5.75,
+            "Width": 0.8,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "thigh_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.ring2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.ring1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 1.52588e-05,
+                "y": 1.52588e-05,
+                "z": 9.53674e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 4.1e-06,
+                    "y": 0.789244,
+                    "z": 4.76837e-07
+                },
+                "Rotation": {
+                    "x": -0.0465715,
+                    "y": -0.0189607,
+                    "z": 0.198793
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -5.2e-06,
+                "y": 1.69468,
+                "z": -3.8743e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.30621,
+                "y": 3.38936,
+                "z": 2.30621
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.thumb1",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 1.52588e-05,
+                "z": 1.14441e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 3.53506,
+                    "y": 5.4453,
+                    "z": -3.38679
+                },
+                "Rotation": {
+                    "x": 1.54904,
+                    "y": 2.63629,
+                    "z": 1.12113
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 2.38419e-07,
+                "y": 0.680324,
+                "z": -1.49012e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 3.72796,
+                "y": 1.36065,
+                "z": 3.72796
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.hand",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm"
+            ],
+            "BaseGlobalOffset": {
+                "x": -7.62939e-06,
+                "y": 0.0,
+                "z": 3.33786e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 27.8572,
+                    "z": -9.3e-06
+                },
+                "Rotation": {
+                    "x": 2.96085,
+                    "y": -3.06102,
+                    "z": 3.09011
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.lowerarm",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": 0.0,
+                "y": 5.49959,
+                "z": 1.6e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 10.9865,
+                "y": 10.9992,
+                "z": 4.12469
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "LocalPosition": {
+                    "x": 1.9e-06,
+                    "y": 10.9992,
+                    "z": -1.9e-06
+                }
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 4.14407,
+                    "y": 11.3055,
+                    "z": -0.107138
+                }
+            },
+            "Mass": 1.0,
+            "Width": 1.5,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "hand_add_l",
+                "DirectionPoint": "hand_dir_l",
+                "SelfPoint": "",
+                "MainPoint": "hand_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": true
+        },
+        {
+            "MainJoint": "neck",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.38437e-08,
+                "y": 1.52588e-05,
+                "z": -6.67572e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 34.3885,
+                    "z": 9.53674e-07
+                },
+                "Rotation": {
+                    "x": 0.516586,
+                    "y": 8.60342e-07,
+                    "z": 3.53275e-07
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "spine2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": 3.45309e-07,
+                "y": 6.63807,
+                "z": 2.68221e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 22.8054,
+                "y": 13.2761,
+                "z": 22.8054
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "head",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "neck"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 4.6e-06,
+                    "y": -3.85328,
+                    "z": -9.2278
+                }
+            },
+            "Mass": 2.884999990463257,
+            "Width": 2.5,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "neck_add",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "neck"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "stomach",
+            "MainJointPath": [
+                "Root",
+                "spine1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 3.893e-08,
+                "y": 0.0,
+                "z": -2.38419e-07
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 11.7674,
+                    "z": 4.76837e-07
+                },
+                "Rotation": {
+                    "x": 2.9467,
+                    "y": -3.14159,
+                    "z": 3.14159
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "spine1",
+                "NamePath": [
+                    "Root"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -7.18533e-07,
+                "y": 6.15496,
+                "z": 1.24564e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 44.1862,
+                "y": 11.066,
+                "z": 40.4676
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "spine2",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 2.2e-06,
+                    "y": -1.05986,
+                    "z": 9.94368
+                }
+            },
+            "Mass": 7.599999904632568,
+            "Width": 7.0,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "stomach_add",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "stomach"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "R.foot1",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "R.thigh",
+                "R.thigh.001",
+                "R.shin"
+            ],
+            "BaseGlobalOffset": {
+                "x": -1.90735e-06,
+                "y": -1.90735e-05,
+                "z": 1.04904e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 1.9e-06,
+                    "y": 42.8733,
+                    "z": -2.45869e-07
+                },
+                "Rotation": {
+                    "x": -1.91623,
+                    "y": -0.117821,
+                    "z": 3.08241
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.shin",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -5.2e-06,
+                "y": 8.19055,
+                "z": -1.4e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 11.3642,
+                "y": 16.3811,
+                "z": 11.3642
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "R.toe",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001",
+                    "R.shin",
+                    "R.foot1"
+                ]
+            },
+            "AdditionalDirection": {
+                "OtherUnitAdditional": "R.toe",
+                "OtherUnitAdditionalPath": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001",
+                    "R.shin",
+                    "R.foot1"
+                ]
+            },
+            "Mass": 1.7000000476837158,
+            "Width": 1.5,
+            "Length": 1.0,
+            "AdditionalNodeControllers": [
+                {
+                    "x": -1.12283,
+                    "y": 1.84625,
+                    "z": -8.55533
+                }
+            ],
+            "AutoposingNames": {
+                "AdditionalPoint": "",
+                "DirectionPoint": "",
+                "SelfPoint": "foot_self_r",
+                "MainPoint": "foot_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "R.middle4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.middle1",
+                "R.middle2",
+                "R.middle3"
+            ],
+            "BaseGlobalOffset": {
+                "x": -7.62939e-06,
+                "y": 0.0,
+                "z": 1.04904e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 7.8e-06,
+                    "y": 3.78474,
+                    "z": 2.8e-06
+                },
+                "Rotation": {
+                    "x": -3.04624,
+                    "y": 3.07725,
+                    "z": 2.75431
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.middle3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.middle1",
+                    "R.middle2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -3.4e-06,
+                "y": 1.53402,
+                "z": -5.06639e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.87845,
+                "y": 3.06804,
+                "z": 1.87845
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.thumb3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.thumb1",
+                "R.thumb2"
+            ],
+            "BaseGlobalOffset": {
+                "x": -7.62939e-06,
+                "y": 0.0,
+                "z": 1.62125e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 4.7e-06,
+                    "y": 3.95197,
+                    "z": 5.2e-06
+                },
+                "Rotation": {
+                    "x": -0.0718013,
+                    "y": 1.81142e-07,
+                    "z": 0.044872
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.thumb2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.thumb1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 1.2e-06,
+                "y": 1.75126,
+                "z": 1.1e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 3.06445,
+                "y": 3.50252,
+                "z": 3.06444
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.thigh",
+            "MainJointPath": [
+                "Root",
+                "spine1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": -7.62939e-06,
+                "z": -4.76837e-07
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -9.89118,
+                    "y": -2.75073,
+                    "z": -3.18388
+                },
+                "Rotation": {
+                    "x": 0.134091,
+                    "y": -0.563956,
+                    "z": 2.90045
+                },
+                "Scale": {
+                    "x": 0.999998,
+                    "y": 1.0,
+                    "z": 0.999999
+                }
+            },
+            "Parent": {
+                "Name": "spine1",
+                "NamePath": [
+                    "Root"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -0.635746,
+                "y": 27.6498,
+                "z": -0.990464
+            },
+            "BoxOrientation": {
+                "x": -9.42456e-08,
+                "y": 0.454806,
+                "z": 9.42455e-08
+            },
+            "BoxRotation": {
+                "x": -9.42456e-08,
+                "y": 0.454806,
+                "z": 9.42455e-08
+            },
+            "BoxScale": {
+                "x": 20.7561,
+                "y": 55.3497,
+                "z": 20.7561
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "R.shin",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001"
+                ]
+            },
+            "AdditionalDirection": {
+                "OtherUnitAdditional": "R.shin",
+                "OtherUnitAdditionalPath": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001"
+                ]
+            },
+            "Mass": 5.75,
+            "Width": 0.8,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "thigh_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.lowerarm",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm"
+            ],
+            "BaseGlobalOffset": {
+                "x": -1.14441e-05,
+                "y": -1.52588e-05,
+                "z": -4.76837e-07
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -2.71946e-07,
+                    "y": 28.6519,
+                    "z": -6e-06
+                },
+                "Rotation": {
+                    "x": -3.01491,
+                    "y": 3.08817,
+                    "z": 2.84116
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.upperarm",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder"
+                ],
+                "Type": "Hinge"
+            },
+            "BoxPosition": {
+                "x": -1.9e-06,
+                "y": 13.9286,
+                "z": 4.76837e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 10.4464,
+                "y": 27.8572,
+                "z": 10.4464
+            },
+            "DirectionControllerEnabled": true,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": true,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "L.hand",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": -4.18988,
+                    "y": -7.6e-06,
+                    "z": 9.0799
+                }
+            },
+            "Mass": 1.5199998617172241,
+            "Width": 0.7000000000000001,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "forearm_add_l",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "forearm_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.middle2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.middle1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 7.62939e-06,
+                "z": 1.04904e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 1.05e-05,
+                    "y": 1.11007,
+                    "z": 1.9e-06
+                },
+                "Rotation": {
+                    "x": -0.0777782,
+                    "y": -0.0237588,
+                    "z": 0.126549
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -2.9e-06,
+                "y": 1.92368,
+                "z": -2.3e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.81226,
+                "y": 3.84735,
+                "z": 2.81226
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.ring4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.ring1",
+                "R.ring2",
+                "R.ring3"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 1.52588e-05,
+                "z": 6.67572e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -3.7e-06,
+                    "y": 3.48817,
+                    "z": 2.1e-06
+                },
+                "Rotation": {
+                    "x": -3.10674,
+                    "y": 3.07015,
+                    "z": 2.7028
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.ring3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.ring1",
+                    "R.ring2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -2.6e-06,
+                "y": 1.29517,
+                "z": -1.2e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.93656,
+                "y": 2.59036,
+                "z": 1.93656
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.shin",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "R.thigh",
+                "R.thigh.001"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": -1.14441e-05,
+                "z": 3.8147e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -1.86264e-08,
+                    "y": 7.69937,
+                    "z": 2.1e-06
+                },
+                "Rotation": {
+                    "x": -0.0920088,
+                    "y": -2.61816,
+                    "z": 0.0191989
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.thigh",
+                "NamePath": [
+                    "Root",
+                    "spine1"
+                ],
+                "Type": "Hinge"
+            },
+            "BoxPosition": {
+                "x": 0.0,
+                "y": 21.4366,
+                "z": -2.86102e-06
+            },
+            "BoxOrientation": {
+                "x": 1.18684e-08,
+                "y": -0.0430418,
+                "z": 5.96599e-08
+            },
+            "BoxRotation": {
+                "x": 1.18684e-08,
+                "y": -0.0430418,
+                "z": 5.96599e-08
+            },
+            "BoxScale": {
+                "x": 16.0775,
+                "y": 42.8733,
+                "z": 16.0775
+            },
+            "DirectionControllerEnabled": true,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "R.foot1",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001",
+                    "R.shin"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 9.93301,
+                    "y": 3.8e-06,
+                    "z": -1.15553
+                }
+            },
+            "Mass": 4.369999885559082,
+            "Width": 0.6000000000000001,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "calf_add_r",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "calf_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "R.toe",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "R.thigh",
+                "R.thigh.001",
+                "R.shin",
+                "R.foot1"
+            ],
+            "BaseGlobalOffset": {
+                "x": -3.8147e-06,
+                "y": -2.00272e-05,
+                "z": 1.23978e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -3.8e-06,
+                    "y": 16.3811,
+                    "z": -2.92157e-07
+                },
+                "Rotation": {
+                    "x": 0.541152,
+                    "y": 0.102926,
+                    "z": 0.0464569
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.foot1",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "R.thigh",
+                    "R.thigh.001",
+                    "R.shin"
+                ],
+                "Type": "Hinge"
+            },
+            "BoxPosition": {
+                "x": -0.567528,
+                "y": 4.96769,
+                "z": 2.3e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 9.5588,
+                "y": 10.0,
+                "z": 9.5588
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "LocalPosition": {
+                    "x": -4.1e-06,
+                    "y": 11.0081,
+                    "z": 9.53674e-07
+                }
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 9.9593,
+                    "y": 4.2e-06,
+                    "z": 0.901241
+                }
+            },
+            "Mass": 0.8999999165534973,
+            "Width": 2.0,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "toe_add_r",
+                "DirectionPoint": "toe_dir_r",
+                "SelfPoint": "",
+                "MainPoint": "toe_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.shin",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "L.thigh",
+                "L.thigh.001"
+            ],
+            "BaseGlobalOffset": {
+                "x": 1.90735e-06,
+                "y": 0.0,
+                "z": 4.76837e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -5.1409e-07,
+                    "y": 7.69937,
+                    "z": 7.15256e-07
+                },
+                "Rotation": {
+                    "x": 3.04958,
+                    "y": 0.523433,
+                    "z": 3.12239
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.thigh",
+                "NamePath": [
+                    "Root",
+                    "spine1"
+                ],
+                "Type": "Hinge"
+            },
+            "BoxPosition": {
+                "x": 1.71661e-05,
+                "y": 21.4366,
+                "z": -2.00272e-05
+            },
+            "BoxOrientation": {
+                "x": -3.14159,
+                "y": 3.12581,
+                "z": 3.14159
+            },
+            "BoxRotation": {
+                "x": -3.14159,
+                "y": 3.12581,
+                "z": 3.14159
+            },
+            "BoxScale": {
+                "x": 16.0775,
+                "y": 42.8733,
+                "z": 16.0775
+            },
+            "DirectionControllerEnabled": true,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": true,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "L.foot1",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001",
+                    "L.shin"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": -9.933,
+                    "y": 1.14e-05,
+                    "z": -1.1556
+                }
+            },
+            "Mass": 4.369999885559082,
+            "Width": 0.6000000000000001,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "calf_add_l",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "calf_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.foot1",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "L.thigh",
+                "L.thigh.001",
+                "L.shin"
+            ],
+            "BaseGlobalOffset": {
+                "x": 5.72205e-06,
+                "y": -1.14441e-05,
+                "z": 4.76837e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -3.27826e-07,
+                    "y": 42.8733,
+                    "z": 1.1e-06
+                },
+                "Rotation": {
+                    "x": 1.22537,
+                    "y": 3.02376,
+                    "z": 0.0591826
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.shin",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": 9.5e-06,
+                "y": 8.19053,
+                "z": -1.62e-05
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 12.2547,
+                "y": 16.3811,
+                "z": 12.2547
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "L.toe",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001",
+                    "L.shin",
+                    "L.foot1"
+                ]
+            },
+            "AdditionalDirection": {
+                "OtherUnitAdditional": "L.toe",
+                "OtherUnitAdditionalPath": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001",
+                    "L.shin",
+                    "L.foot1"
+                ]
+            },
+            "Mass": 1.7000000476837158,
+            "Width": 1.5,
+            "Length": 1.0,
+            "AdditionalNodeControllers": [
+                {
+                    "x": 1.12285,
+                    "y": 1.84626,
+                    "z": -8.55532
+                }
+            ],
+            "AutoposingNames": {
+                "AdditionalPoint": "",
+                "DirectionPoint": "",
+                "SelfPoint": "foot_self_l",
+                "MainPoint": "foot_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.toe",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "L.thigh",
+                "L.thigh.001",
+                "L.shin",
+                "L.foot1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 5.72205e-06,
+                "y": -8.58307e-06,
+                "z": 8.58307e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 2.98023e-07,
+                    "y": 16.3811,
+                    "z": 4.17233e-07
+                },
+                "Rotation": {
+                    "x": -2.60044,
+                    "y": -3.03867,
+                    "z": 3.09514
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.foot1",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "L.thigh",
+                    "L.thigh.001",
+                    "L.shin"
+                ],
+                "Type": "Hinge"
+            },
+            "BoxPosition": {
+                "x": 0.567534,
+                "y": 4.96769,
+                "z": 3.8e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 11.6906,
+                "y": 10.0,
+                "z": 11.6906
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": true,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "LocalPosition": {
+                    "x": 1.64e-05,
+                    "y": 11.008,
+                    "z": -2.8e-06
+                }
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": -9.9593,
+                    "y": 1.62e-05,
+                    "z": 0.901234
+                }
+            },
+            "Mass": 0.8999999165534973,
+            "Width": 2.0,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "toe_add_l",
+                "DirectionPoint": "toe_dir_l",
+                "SelfPoint": "",
+                "MainPoint": "toe_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "spine2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.38437e-08,
+                "y": 0.0,
+                "z": -1.43051e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 0.0,
+                    "y": 12.3099,
+                    "z": 2.38419e-07
+                },
+                "Rotation": {
+                    "x": -0.0148377,
+                    "y": -1.48739e-07,
+                    "z": 1.5322e-07
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "stomach",
+                "NamePath": [
+                    "Root",
+                    "spine1"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -4.82807e-07,
+                "y": 17.1942,
+                "z": -4.2e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 41.2661,
+                "y": 34.3884,
+                "z": 37.3974
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "neck",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 4.3e-06,
+                    "y": -1.20728,
+                    "z": 9.92686
+                }
+            },
+            "Mass": 9.475000381469727,
+            "Width": 3.0,
+            "Length": 1.0,
+            "AdditionalChildrenJointsPath": [
+                {
+                    "Name": "R.shoulder",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "stomach",
+                        "spine2"
+                    ]
+                },
+                {
+                    "Name": "L.shoulder",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "stomach",
+                        "spine2"
+                    ]
+                }
+            ],
+            "AdditionalChildrenJoints": [
+                "R.shoulder",
+                "L.shoulder"
+            ],
+            "AutoposingNames": {
+                "AdditionalPoint": "chest_add",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "chest"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.index2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.index1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 7.62939e-06,
+                "z": 1.14441e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -1.21e-05,
+                    "y": 1.08572,
+                    "z": 5.7e-06
+                },
+                "Rotation": {
+                    "x": -3.00715,
+                    "y": 3.08323,
+                    "z": 3.04464
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 4.76837e-07,
+                "y": 1.90966,
+                "z": 2.6e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.47412,
+                "y": 3.81931,
+                "z": 2.47412
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.ring2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.ring1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 1.52588e-05,
+                "y": -7.62939e-06,
+                "z": 6.67572e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 3.8e-06,
+                    "y": 0.789236,
+                    "z": -1.4e-06
+                },
+                "Rotation": {
+                    "x": 3.09502,
+                    "y": 3.12263,
+                    "z": 2.9428
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 1e-06,
+                "y": 1.69468,
+                "z": -1.4e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.28904,
+                "y": 3.38936,
+                "z": 2.28904
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.pinky4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.pinky1",
+                "R.pinky2",
+                "R.pinky3"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 7.62939e-06,
+                "z": 4.05312e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 8.6e-06,
+                    "y": 1.95259,
+                    "z": -5.96047e-08
+                },
+                "Rotation": {
+                    "x": 3.07637,
+                    "y": 3.077,
+                    "z": 2.73903
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.pinky3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.pinky1",
+                    "R.pinky2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 4.8e-06,
+                "y": 0.994982,
+                "z": -8.34465e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.96964,
+                "y": 1.98997,
+                "z": 1.96964
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.pinky2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.pinky1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 7.62939e-06,
+                "z": 1.90735e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 2.54975e-07,
+                    "y": 0.692942,
+                    "z": -0.0
+                },
+                "Rotation": {
+                    "x": 3.01507,
+                    "y": -3.12923,
+                    "z": 2.8242
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -2.1e-06,
+                "y": 0.990582,
+                "z": 5.21541e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.77609,
+                "y": 1.98116,
+                "z": 1.77609
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.thumb2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.thumb1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 7.62939e-06,
+                "z": 1.52588e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -4.76837e-07,
+                    "y": 1.36064,
+                    "z": 9.53674e-07
+                },
+                "Rotation": {
+                    "x": 2.92086,
+                    "y": -3.06187,
+                    "z": 2.80057
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.thumb1",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 2.6e-06,
+                "y": 1.97599,
+                "z": 2.6e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 3.32357,
+                "y": 3.95197,
+                "z": 3.32357
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.index4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.index1",
+                "L.index2",
+                "L.index3"
+            ],
+            "BaseGlobalOffset": {
+                "x": 2.28882e-05,
+                "y": 1.52588e-05,
+                "z": 1.04904e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 2.3e-06,
+                    "y": 3.61245,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 0.119341,
+                    "y": -0.0180427,
+                    "z": 0.0583647
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.index3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.index1",
+                    "L.index2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -1.2e-06,
+                "y": 1.15877,
+                "z": 8.9407e-08
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.91807,
+                "y": 2.31753,
+                "z": 1.91807
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.pinky4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.pinky1",
+                "L.pinky2",
+                "L.pinky3"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 5.24521e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -2.4e-06,
+                    "y": 1.9526,
+                    "z": -2.98023e-07
+                },
+                "Rotation": {
+                    "x": -0.0652209,
+                    "y": -0.0645901,
+                    "z": 0.402562
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.pinky3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.pinky1",
+                    "L.pinky2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -4.9e-06,
+                "y": 0.994982,
+                "z": -1.4e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.599,
+                "y": 1.98997,
+                "z": 1.599
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.shoulder",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.33786e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 13.6634,
+                    "y": 30.5283,
+                    "z": 0.488439
+                },
+                "Rotation": {
+                    "x": 2.96396,
+                    "y": 3.04284,
+                    "z": 1.29406
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "spine2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -9.62168,
+                "y": 1.13788,
+                "z": -0.223445
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 0.288997,
+                "y": 7.70658,
+                "z": 2.88997
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "L.upperarm",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": -7.01589,
+                    "y": 14.2862,
+                    "z": -0.825843
+                }
+            },
+            "Mass": 2.119999885559082,
+            "Width": 2.0,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "clavicle_add_l",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "clavicle_l"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.thumb3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.thumb1",
+                "L.thumb2"
+            ],
+            "BaseGlobalOffset": {
+                "x": -7.62939e-06,
+                "y": 7.62939e-06,
+                "z": -1.90735e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -4.7e-06,
+                    "y": 3.95197,
+                    "z": 5.7e-06
+                },
+                "Rotation": {
+                    "x": 3.06979,
+                    "y": 3.14159,
+                    "z": 3.09672
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.thumb2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.thumb1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -5.96046e-07,
+                "y": 1.75126,
+                "z": 2.98023e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.64811,
+                "y": 3.50252,
+                "z": 2.64811
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.index4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.index1",
+                "R.index2",
+                "R.index3"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 7.62939e-06,
+                "z": 1.04904e-05
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 8.2e-06,
+                    "y": 3.61243,
+                    "z": 6.6e-06
+                },
+                "Rotation": {
+                    "x": -3.02225,
+                    "y": 3.12355,
+                    "z": 3.08323
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.index3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.index1",
+                    "R.index2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -1.5e-06,
+                "y": 1.15876,
+                "z": -1.1e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.99522,
+                "y": 2.31753,
+                "z": 1.99522
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.ring3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.ring1",
+                "R.ring2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 1.52588e-05,
+                "y": 7.62939e-06,
+                "z": 6.19888e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 4.4e-06,
+                    "y": 3.38936,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": 3.10676,
+                    "y": 3.09371,
+                    "z": 2.79568
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.ring2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm",
+                    "R.hand",
+                    "R.ring1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -8.04663e-07,
+                "y": 1.74408,
+                "z": -7.15256e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.25786,
+                "y": 3.48817,
+                "z": 2.25786
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.upperarm",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": -1.52588e-05,
+                "z": -4.76837e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 5.3e-06,
+                    "y": 7.70657,
+                    "z": 9.53674e-07
+                },
+                "Rotation": {
+                    "x": 1.20309,
+                    "y": 1.42647,
+                    "z": 1.64747
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.shoulder",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -3.8e-06,
+                "y": 14.3259,
+                "z": 2.8e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 14.0098,
+                "y": 28.6519,
+                "z": 14.0098
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "R.lowerarm",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm"
+                ]
+            },
+            "AdditionalDirection": {
+                "OtherUnitAdditional": "R.lowerarm",
+                "OtherUnitAdditionalPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm"
+                ]
+            },
+            "Mass": 2.5199999809265137,
+            "Width": 0.9,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "arm_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "L.pinky2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.pinky1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 7.62939e-06,
+                "z": 7.39098e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 1.15898e-08,
+                    "y": 0.692957,
+                    "z": 4.76837e-07
+                },
+                "Rotation": {
+                    "x": -0.126522,
+                    "y": 0.0123638,
+                    "z": 0.317391
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 2.1e-06,
+                "y": 0.990582,
+                "z": -2.5332e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.89111,
+                "y": 1.98116,
+                "z": 1.89111
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.ring3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.ring1",
+                "L.ring2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 2.28882e-05,
+                "z": 9.53674e-07
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -7.23883e-07,
+                    "y": 3.38936,
+                    "z": -9.53674e-07
+                },
+                "Rotation": {
+                    "x": -0.0348337,
+                    "y": -0.0478842,
+                    "z": 0.345909
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.ring2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.ring1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 6.3e-06,
+                "y": 1.74409,
+                "z": -1.1e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.30383,
+                "y": 3.48818,
+                "z": 2.30383
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.thumb1",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand"
+            ],
+            "BaseGlobalOffset": {
+                "x": 2.28882e-05,
+                "y": 0.0,
+                "z": 1.90735e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -3.53506,
+                    "y": 5.4453,
+                    "z": -3.38679
+                },
+                "Rotation": {
+                    "x": -1.59255,
+                    "y": -0.505303,
+                    "z": 2.02046
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 8.9407e-08,
+                "y": 0.680324,
+                "z": -1.19209e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 4.41531,
+                "y": 1.36064,
+                "z": 4.41531
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.middle4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.middle1",
+                "L.middle2",
+                "L.middle3"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 7.62939e-06,
+                "z": 4.76837e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -1.57e-05,
+                    "y": 3.78474,
+                    "z": 5.2e-06
+                },
+                "Rotation": {
+                    "x": 0.0953548,
+                    "y": -0.0643433,
+                    "z": 0.387282
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.middle3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.middle1",
+                    "L.middle2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -4.4e-06,
+                "y": 1.53402,
+                "z": -7.15256e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.10703,
+                "y": 3.06804,
+                "z": 2.10703
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.pinky3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.pinky1",
+                "L.pinky2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 1.52588e-05,
+                "z": 1.19209e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 1.34696e-07,
+                    "y": 1.98116,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "x": -0.0789416,
+                    "y": -0.0271192,
+                    "z": 0.309213
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.pinky2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.pinky1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -0.0,
+                "y": 0.976297,
+                "z": -9.53674e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.93491,
+                "y": 1.9526,
+                "z": 1.93491
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.ring4",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.ring1",
+                "L.ring2",
+                "L.ring3"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 1.52588e-05,
+                "z": 4.29153e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 1.31e-05,
+                    "y": 3.48818,
+                    "z": -4.76837e-07
+                },
+                "Rotation": {
+                    "x": 0.0348526,
+                    "y": -0.0714405,
+                    "z": 0.438796
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.ring3",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.ring1",
+                    "L.ring2"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -4.9e-06,
+                "y": 1.29518,
+                "z": -1.3e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 1.76756,
+                "y": 2.59036,
+                "z": 1.76756
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "head",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "neck"
+            ],
+            "BaseGlobalOffset": {
+                "x": -2.56277e-08,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -0.0,
+                    "y": 13.2761,
+                    "z": 3.2e-06
+                },
+                "Rotation": {
+                    "x": -0.255363,
+                    "y": -6.45614e-07,
+                    "z": 1.24895e-08
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "neck",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": 1.52662e-07,
+                "y": 11.8894,
+                "z": -4.9e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 26.7512,
+                "y": 23.7788,
+                "z": 35.6682
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "LocalPosition": {
+                    "x": 3.0532e-07,
+                    "y": 23.7788,
+                    "z": -7.8e-06
+                }
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 1.4e-06,
+                    "y": 1.39741,
+                    "z": 9.90188
+                }
+            },
+            "Mass": 3.799999952316284,
+            "Width": 2.5,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "head_add",
+                "DirectionPoint": "head_dir",
+                "SelfPoint": "",
+                "MainPoint": "head"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": true
+        },
+        {
+            "MainJoint": "L.middle3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.middle1",
+                "L.middle2"
+            ],
+            "BaseGlobalOffset": {
+                "x": 7.62939e-06,
+                "y": 1.52588e-05,
+                "z": 2.86102e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -3.4e-06,
+                    "y": 3.84736,
+                    "z": -3.8e-06
+                },
+                "Rotation": {
+                    "x": 0.0741742,
+                    "y": -0.0995782,
+                    "z": 0.381167
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.middle2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.middle1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -9e-06,
+                "y": 1.89237,
+                "z": 1.8e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.54243,
+                "y": 3.78474,
+                "z": 2.54243
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "L.index3",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "L.shoulder",
+                "L.upperarm",
+                "L.lowerarm",
+                "L.hand",
+                "L.index1",
+                "L.index2"
+            ],
+            "BaseGlobalOffset": {
+                "x": -7.62939e-06,
+                "y": 7.62939e-06,
+                "z": 9.53674e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -7.8e-06,
+                    "y": 3.81931,
+                    "z": 1.9e-06
+                },
+                "Rotation": {
+                    "x": 0.0816146,
+                    "y": -0.141417,
+                    "z": 0.337765
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "L.index2",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "L.shoulder",
+                    "L.upperarm",
+                    "L.lowerarm",
+                    "L.hand",
+                    "L.index1"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": 2.8e-06,
+                "y": 1.80623,
+                "z": 5.96046e-07
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.70827,
+                "y": 3.61244,
+                "z": 2.70827
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.lowerarm",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 1.52588e-05,
+                "z": 4.76837e-07
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": -4.24683e-07,
+                    "y": 28.6519,
+                    "z": 1.3e-06
+                },
+                "Rotation": {
+                    "x": 0.126684,
+                    "y": -0.0534271,
+                    "z": 0.300435
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.upperarm",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder"
+                ],
+                "Type": "Hinge"
+            },
+            "BoxPosition": {
+                "x": -1.9e-06,
+                "y": 13.9286,
+                "z": -4.2e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 10.4464,
+                "y": 27.8571,
+                "z": 10.4464
+            },
+            "DirectionControllerEnabled": true,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "OtherUnitMain": "R.hand",
+                "OtherUnitMainPath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm"
+                ]
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": 4.18989,
+                    "y": 3.8e-06,
+                    "z": 9.0799
+                }
+            },
+            "Mass": 1.5199998617172241,
+            "Width": 0.7000000000000001,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "forearm_add_r",
+                "DirectionPoint": "",
+                "SelfPoint": "",
+                "MainPoint": "forearm_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": false
+        },
+        {
+            "MainJoint": "R.middle2",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm",
+                "R.hand",
+                "R.middle1"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 1.52588e-05,
+                "z": 6.67572e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 2.1e-06,
+                    "y": 1.11006,
+                    "z": -1.9e-06
+                },
+                "Rotation": {
+                    "x": 3.06381,
+                    "y": 3.11783,
+                    "z": 3.01504
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.hand",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm",
+                    "R.lowerarm"
+                ],
+                "Type": "Null"
+            },
+            "BoxPosition": {
+                "x": -2.7e-06,
+                "y": 1.92368,
+                "z": -1.1e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 2.23357,
+                "y": 3.84736,
+                "z": 2.23357
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "PhysicsEnabled": false
+        },
+        {
+            "MainJoint": "R.hand",
+            "MainJointPath": [
+                "Root",
+                "spine1",
+                "stomach",
+                "spine2",
+                "R.shoulder",
+                "R.upperarm",
+                "R.lowerarm"
+            ],
+            "BaseGlobalOffset": {
+                "x": 0.0,
+                "y": 7.62939e-06,
+                "z": 5.24521e-06
+            },
+            "JointLocalData": {
+                "Position": {
+                    "x": 9.53674e-07,
+                    "y": 27.8572,
+                    "z": -1.73e-05
+                },
+                "Rotation": {
+                    "x": -0.180746,
+                    "y": 0.0805713,
+                    "z": 0.0514848
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "Parent": {
+                "Name": "R.lowerarm",
+                "NamePath": [
+                    "Root",
+                    "spine1",
+                    "stomach",
+                    "spine2",
+                    "R.shoulder",
+                    "R.upperarm"
+                ],
+                "Type": "Ball"
+            },
+            "BoxPosition": {
+                "x": -4.76837e-07,
+                "y": 5.38891,
+                "z": -6e-06
+            },
+            "BoxOrientation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxRotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "BoxScale": {
+                "x": 12.5038,
+                "y": 10.7778,
+                "z": 4.04168
+            },
+            "DirectionControllerEnabled": false,
+            "DirectionControllerLength": 100.0,
+            "DirectionControllerIsRight": false,
+            "PhysicsEnabled": true,
+            "ClosedTriangle": false,
+            "RigidBodyOffset": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "MainDirection": {
+                "LocalPosition": {
+                    "x": 0.0,
+                    "y": 10.7778,
+                    "z": -6.4e-06
+                }
+            },
+            "AdditionalDirection": {
+                "LocalPosition": {
+                    "x": -4.14407,
+                    "y": 11.3055,
+                    "z": -0.107142
+                }
+            },
+            "Mass": 1.0,
+            "Width": 1.5,
+            "Length": 1.0,
+            "AutoposingNames": {
+                "AdditionalPoint": "hand_add_r",
+                "DirectionPoint": "hand_dir_r",
+                "SelfPoint": "",
+                "MainPoint": "hand_r"
+            },
+            "Collision": {
+                "Active": true,
+                "Radius": 0.0
+            },
+            "CustomAdditionalPointIndex": -1,
+            "AffectParent": true
+        }
+    ],
+    "FulcrumGroups": [
+        {
+            "Name": "fulcrum_group_(5)",
+            "Joints": [
+                {
+                    "Name": "R.toe",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "R.thigh",
+                        "R.thigh.001",
+                        "R.shin",
+                        "R.foot1"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "fulcrum_group_(4)",
+            "Joints": [
+                {
+                    "Name": "L.toe",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "L.thigh",
+                        "L.thigh.001",
+                        "L.shin",
+                        "L.foot1"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "fulcrum_group_(3)",
+            "Joints": [
+                {
+                    "Name": "R.toe",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "R.thigh",
+                        "R.thigh.001",
+                        "R.shin",
+                        "R.foot1"
+                    ]
+                },
+                {
+                    "Name": "R.foot1",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "R.thigh",
+                        "R.thigh.001",
+                        "R.shin"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "fulcrum_group_(2)",
+            "Joints": [
+                {
+                    "Name": "L.toe",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "L.thigh",
+                        "L.thigh.001",
+                        "L.shin",
+                        "L.foot1"
+                    ]
+                },
+                {
+                    "Name": "L.foot1",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "L.thigh",
+                        "L.thigh.001",
+                        "L.shin"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "fulcrum_group_(1)",
+            "Joints": [
+                {
+                    "Name": "R.hand",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "stomach",
+                        "spine2",
+                        "R.shoulder",
+                        "R.upperarm",
+                        "R.lowerarm"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "fulcrum_group_(0)",
+            "Joints": [
+                {
+                    "Name": "L.hand",
+                    "Path": [
+                        "Root",
+                        "spine1",
+                        "stomach",
+                        "spine2",
+                        "L.shoulder",
+                        "L.upperarm",
+                        "L.lowerarm"
+                    ]
+                }
+            ]
+        }
+    ]
+}
