@@ -1,3 +1,3 @@
-# Cascadeur_tutorial_files
+# Cascadeur tutorial files
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+In this repository you can find files for [my youtube](https://www.youtube.com/c/AronNemeth95) videos. 
