@@ -1,4 +1,4 @@
-# Files for Weapon Rigging in Cascadeur
+# Files for Butterfly Kick animation
 
 [![Watch the video](https://img.youtube.com/vi/gL5pEZlV-S8/default.jpg)](https://youtu.be/gL5pEZlV-S8)
 
