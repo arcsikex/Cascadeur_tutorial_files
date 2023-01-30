@@ -1,0 +1,963 @@
+{
+	"Document": [
+		{
+			"Title": "Body",
+			"Sections": [
+				{
+					"Section": "Body",
+					"Names": [
+						{
+							"Bone name": "pelvis",
+							"Joint name": "DEF-spine",
+							"Joint path": []
+						},
+						{
+							"Bone name": "stomach",
+							"Joint name": "DEF-spine.001",
+							"Joint path": [
+								"DEF-spine"
+							]
+						},
+						{
+							"Bone name": "chest",
+							"Joint name": "DEF-spine.002",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001"
+							]
+						},
+						{
+							"Bone name": "neck",
+							"Joint name": "DEF-spine.004",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003"
+							]
+						},
+						{
+							"Bone name": "head",
+							"Joint name": "DEF-spine.006",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-spine.004",
+								"DEF-spine.005"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Left arm",
+					"Names": [
+						{
+							"Bone name": "clavicle_l",
+							"Joint name": "DEF-shoulder.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003"
+							]
+						},
+						{
+							"Bone name": "arm_l",
+							"Joint name": "DEF-upper_arm.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L"
+							]
+						},
+						{
+							"Bone name": "forearm_l",
+							"Joint name": "DEF-forearm.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001"
+							]
+						},
+						{
+							"Bone name": "hand_l",
+							"Joint name": "DEF-hand.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Right arm",
+					"Names": [
+						{
+							"Bone name": "clavicle_r",
+							"Joint name": "DEF-shoulder.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003"
+							]
+						},
+						{
+							"Bone name": "arm_r",
+							"Joint name": "DEF-upper_arm.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R"
+							]
+						},
+						{
+							"Bone name": "forearm_r",
+							"Joint name": "DEF-forearm.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001"
+							]
+						},
+						{
+							"Bone name": "hand_r",
+							"Joint name": "DEF-hand.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Left leg",
+					"Names": [
+						{
+							"Bone name": "thigh_l",
+							"Joint name": "DEF-thigh.L",
+							"Joint path": [
+								"DEF-spine"
+							]
+						},
+						{
+							"Bone name": "calf_l",
+							"Joint name": "DEF-shin.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.L",
+								"DEF-thigh.L.001"
+							]
+						},
+						{
+							"Bone name": "foot_l",
+							"Joint name": "DEF-foot.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.L",
+								"DEF-thigh.L.001",
+								"DEF-shin.L",
+								"DEF-shin.L.001"
+							]
+						},
+						{
+							"Bone name": "toe_l",
+							"Joint name": "DEF-toe.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.L",
+								"DEF-thigh.L.001",
+								"DEF-shin.L",
+								"DEF-shin.L.001",
+								"DEF-foot.L"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Right leg",
+					"Names": [
+						{
+							"Bone name": "thigh_r",
+							"Joint name": "DEF-thigh.R",
+							"Joint path": [
+								"DEF-spine"
+							]
+						},
+						{
+							"Bone name": "calf_r",
+							"Joint name": "DEF-shin.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.R",
+								"DEF-thigh.R.001"
+							]
+						},
+						{
+							"Bone name": "foot_r",
+							"Joint name": "DEF-foot.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.R",
+								"DEF-thigh.R.001",
+								"DEF-shin.R",
+								"DEF-shin.R.001"
+							]
+						},
+						{
+							"Bone name": "toe_r",
+							"Joint name": "DEF-toe.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.R",
+								"DEF-thigh.R.001",
+								"DEF-shin.R",
+								"DEF-shin.R.001",
+								"DEF-foot.R"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"Title": "Left hand",
+			"Sections": [
+				{
+					"Section": "Thumb",
+					"Names": [
+						{
+							"Bone name": "thumb_l_1",
+							"Joint name": "DEF-thumb.01.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L"
+							]
+						},
+						{
+							"Bone name": "thumb_l_2",
+							"Joint name": "DEF-thumb.02.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-thumb.01.L"
+							]
+						},
+						{
+							"Bone name": "thumb_l_3",
+							"Joint name": "DEF-thumb.03.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-thumb.01.L",
+								"DEF-thumb.02.L"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Index finger",
+					"Names": [
+						{
+							"Bone name": "index_finger_l_1",
+							"Joint name": "DEF-f_index.01.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.01.L"
+							]
+						},
+						{
+							"Bone name": "index_finger_l_2",
+							"Joint name": "DEF-f_index.02.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.01.L",
+								"DEF-f_index.01.L"
+							]
+						},
+						{
+							"Bone name": "index_finger_l_3",
+							"Joint name": "DEF-f_index.03.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.01.L",
+								"DEF-f_index.01.L",
+								"DEF-f_index.02.L"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Middle finger",
+					"Names": [
+						{
+							"Bone name": "middle_finger_l_1",
+							"Joint name": "DEF-f_middle.01.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.02.L"
+							]
+						},
+						{
+							"Bone name": "middle_finger_l_2",
+							"Joint name": "DEF-f_middle.02.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.02.L",
+								"DEF-f_middle.01.L"
+							]
+						},
+						{
+							"Bone name": "middle_finger_l_3",
+							"Joint name": "DEF-f_middle.03.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.02.L",
+								"DEF-f_middle.01.L",
+								"DEF-f_middle.02.L"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Ring finger",
+					"Names": [
+						{
+							"Bone name": "ring_finger_l_1",
+							"Joint name": "DEF-f_ring.01.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.03.L"
+							]
+						},
+						{
+							"Bone name": "ring_finger_l_2",
+							"Joint name": "DEF-f_ring.02.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.03.L",
+								"DEF-f_ring.01.L"
+							]
+						},
+						{
+							"Bone name": "ring_finger_l_3",
+							"Joint name": "DEF-f_ring.03.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.03.L",
+								"DEF-f_ring.01.L",
+								"DEF-f_ring.02.L"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Pinky",
+					"Names": [
+						{
+							"Bone name": "pinky_l_1",
+							"Joint name": "DEF-f_pinky.01.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.04.L"
+							]
+						},
+						{
+							"Bone name": "pinky_l_2",
+							"Joint name": "DEF-f_pinky.02.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.04.L",
+								"DEF-f_pinky.01.L"
+							]
+						},
+						{
+							"Bone name": "pinky_l_3",
+							"Joint name": "DEF-f_pinky.03.L",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L",
+								"DEF-forearm.L.001",
+								"DEF-hand.L",
+								"DEF-palm.04.L",
+								"DEF-f_pinky.01.L",
+								"DEF-f_pinky.02.L"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"Title": "Right hand",
+			"Sections": [
+				{
+					"Section": "Thumb",
+					"Names": [
+						{
+							"Bone name": "thumb_r_1",
+							"Joint name": "DEF-thumb.01.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R"
+							]
+						},
+						{
+							"Bone name": "thumb_r_2",
+							"Joint name": "DEF-thumb.02.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-thumb.01.R"
+							]
+						},
+						{
+							"Bone name": "thumb_r_3",
+							"Joint name": "DEF-thumb.03.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-thumb.01.R",
+								"DEF-thumb.02.R"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Index finger",
+					"Names": [
+						{
+							"Bone name": "index_finger_r_1",
+							"Joint name": "DEF-f_index.01.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.01.R"
+							]
+						},
+						{
+							"Bone name": "index_finger_r_2",
+							"Joint name": "DEF-f_index.02.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.01.R",
+								"DEF-f_index.01.R"
+							]
+						},
+						{
+							"Bone name": "index_finger_r_3",
+							"Joint name": "DEF-f_index.03.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.01.R",
+								"DEF-f_index.01.R",
+								"DEF-f_index.02.R"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Middle finger",
+					"Names": [
+						{
+							"Bone name": "middle_finger_r_1",
+							"Joint name": "DEF-f_middle.01.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.02.R"
+							]
+						},
+						{
+							"Bone name": "middle_finger_r_2",
+							"Joint name": "DEF-f_middle.02.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.02.R",
+								"DEF-f_middle.01.R"
+							]
+						},
+						{
+							"Bone name": "middle_finger_r_3",
+							"Joint name": "DEF-f_middle.03.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.02.R",
+								"DEF-f_middle.01.R",
+								"DEF-f_middle.02.R"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Ring finger",
+					"Names": [
+						{
+							"Bone name": "ring_finger_r_1",
+							"Joint name": "DEF-f_ring.01.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.03.R"
+							]
+						},
+						{
+							"Bone name": "ring_finger_r_2",
+							"Joint name": "DEF-f_ring.02.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.03.R",
+								"DEF-f_ring.01.R"
+							]
+						},
+						{
+							"Bone name": "ring_finger_r_3",
+							"Joint name": "DEF-f_ring.03.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.03.R",
+								"DEF-f_ring.01.R",
+								"DEF-f_ring.02.R"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Pinky",
+					"Names": [
+						{
+							"Bone name": "pinky_r_1",
+							"Joint name": "DEF-f_pinky.01.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.04.R"
+							]
+						},
+						{
+							"Bone name": "pinky_r_2",
+							"Joint name": "DEF-f_pinky.02.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.04.R",
+								"DEF-f_pinky.01.R"
+							]
+						},
+						{
+							"Bone name": "pinky_r_3",
+							"Joint name": "DEF-f_pinky.03.R",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R",
+								"DEF-forearm.R.001",
+								"DEF-hand.R",
+								"DEF-palm.04.R",
+								"DEF-f_pinky.01.R",
+								"DEF-f_pinky.02.R"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"Title": "Twist bones",
+			"Sections": [
+				{
+					"Section": "Left arm",
+					"Names": [
+						{
+							"Bone name": "arm_l",
+							"Joint name": "DEF-upper_arm.L.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L"
+							]
+						},
+						{
+							"Bone name": "forearm_l",
+							"Joint name": "DEF-forearm.L.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.L",
+								"DEF-upper_arm.L",
+								"DEF-upper_arm.L.001",
+								"DEF-forearm.L"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Right arm",
+					"Names": [
+						{
+							"Bone name": "arm_r",
+							"Joint name": "DEF-upper_arm.R.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R"
+							]
+						},
+						{
+							"Bone name": "forearm_r",
+							"Joint name": "DEF-forearm.R.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-spine.001",
+								"DEF-spine.002",
+								"DEF-spine.003",
+								"DEF-shoulder.R",
+								"DEF-upper_arm.R",
+								"DEF-upper_arm.R.001",
+								"DEF-forearm.R"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Left leg",
+					"Names": [
+						{
+							"Bone name": "thigh_l",
+							"Joint name": "DEF-thigh.L.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.L"
+							]
+						},
+						{
+							"Bone name": "calf_l",
+							"Joint name": "DEF-shin.L.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.L",
+								"DEF-thigh.L.001",
+								"DEF-shin.L"
+							]
+						}
+					]
+				},
+				{
+					"Section": "Right leg",
+					"Names": [
+						{
+							"Bone name": "thigh_r",
+							"Joint name": "DEF-thigh.R.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.R"
+							]
+						},
+						{
+							"Bone name": "calf_r",
+							"Joint name": "DEF-shin.R.001",
+							"Joint path": [
+								"DEF-spine",
+								"DEF-thigh.R",
+								"DEF-thigh.R.001",
+								"DEF-shin.R"
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"Settings": {
+		"Is align pelvis": true,
+		"Is create layers": true
+	}
+}
