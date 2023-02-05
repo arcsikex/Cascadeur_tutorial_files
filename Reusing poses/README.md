@@ -1,4 +1,4 @@
-# Files for Weapon Rigging in Cascadeur
+# Reusing poses in Cascadeur
 
 [![Watch the video](https://img.youtube.com/vi/{ID}/default.jpg)](https://youtu.be/{ID})
 
