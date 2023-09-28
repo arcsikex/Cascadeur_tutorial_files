@@ -1,6 +1,6 @@
 # Files for Weapon Rigging in Cascadeur
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/default.jpg)](https://youtu.be/VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/TGLwJ6q1GoM/default.jpg)](https://youtu.be/TGLwJ6q1GoM)
 
 Downloadable files:
 - [Front kick](https://github.com/arcsikex/Cascadeur_tutorial_files/blob/main/Mixamo%20addon%20with%20Cascadeur/front_kick.casc)
