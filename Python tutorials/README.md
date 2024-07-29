@@ -8,7 +8,7 @@ Downloadable files:
 - [Sinus animation final script](https://github.com/arcsikex/Cascadeur_tutorial_files/blob/python/Python%20tutorials/animate_with_python.py)
 
 ## 2. Animate with Python in Cascadeur:
-[![Watch the video](https://img.youtube.com/vi/{ID}/default.jpg)](https://youtu.be/{ID})
+[![Watch the video](https://img.youtube.com/vi/KnoOVnNPpgA/default.jpg)](https://youtu.be/KnoOVnNPpgA)
 
 Downloadable files:
 - [VSCode workspace settings for CodeRunner](https://github.com/arcsikex/Cascadeur_tutorial_files/blob/python/Python%20tutorials/settings.json)
