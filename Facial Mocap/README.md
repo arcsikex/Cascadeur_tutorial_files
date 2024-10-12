@@ -14,7 +14,8 @@
    Run the following command in your terminal (as admin):
 
    ```bash
-   pip install --target="C:\Program Files\Cascadeur\python\Lib\site-packages" --python-version=3.11.0 --only-binary=:all: scipy```
+   pip install --target="C:\Program Files\Cascadeur\python\Lib\site-packages" --python-version=3.11.0 --only-binary=:all: scipy
+   ```
 
 - Replace --target with your actual installation path if Cascadeur is installed elsewhere.
 - (After this, you won't need Python anymore, so feel free to uninstall it.)
