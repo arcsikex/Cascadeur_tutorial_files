@@ -1,5 +1,5 @@
 ## Full video about the workflow:
-[![Watch the video](https://img.youtube.com/vi/*VIDEO-ID*/default.jpg)](https://youtu.be/*VIDEO-ID*)
+[![Watch the video](https://img.youtube.com/vi/JAMQ7CNx8Rs/default.jpg)](https://youtu.be/JAMQ7CNx8Rs)
 
 ## Setup Instructions
 
