@@ -1,0 +1,7 @@
+{
+    "code-runner.executorMap": {
+        "python": "python run_command.py $fullFileName"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+}
